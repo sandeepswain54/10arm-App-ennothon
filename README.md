@@ -1,12 +1,22 @@
-# newbhu
+Cold Chain Logistics Breakdown: Decentralized Optimization for Perishable Goods
 
-A new Flutter project.
-
+This project is developed as part of Innothon 2025, solving Problem Statement 3: Cold Chain Logistics Breakdown using a decentralized optimization approach for perishable goods.
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+🚀 Key Features
 
-A few resources to get you started if this is your first Flutter project:
+Decentralized Monitoring: Ensures efficient tracking of perishable goods.
+Live Logistics Tracking: Real-time updates on movement and conditions.
+AI-Powered Predictions: Optimizes the supply chain with data-driven insights.
+Interactive Dashboard: Web-based interface for real-time visualization.
+
+Tech Stack
+
+Flutter – Cross-platform app development
+Firebase – Backend services & real-time database
+Dart – Primary programming language
+Android Studio – Development environment
+Gemini API – AI-powered insights & automation
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
